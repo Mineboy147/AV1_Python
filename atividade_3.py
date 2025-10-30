@@ -1,4 +1,4 @@
-# Esse código irá imprimir sou nome com uma mensagem de boas vindas, mas se for mais de 120 caracteres vai mandar um amensagem de erro
+# Esse código irá imprimir seu nome com uma mensagem de boas vindas, mas se for mais de 120 caracteres vai mandar um amensagem de erro
 
 while True:
     fulano = input("Digite seu nome (até 120 caracteres): ")
